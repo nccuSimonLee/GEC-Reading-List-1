@@ -39,7 +39,7 @@ This is a grammatical error correction reading list maintained by the Beijing La
 
 - [x] Dahlmeier Daniel and Ng Hwee Tou. 2012. [Better evaluation for grammatical error correction](https://dl.acm.org/citation.cfm?id=2382118). In Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (Maxmatch,M2)
 - [ ] Napoles Courtney, Sakaguchi Keisuke, Post Matt and Tetreault Joel. 2015. [Ground truth for grammatical error correction metrics](https://www.aclweb.org/anthology/P15-2097). In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers).(GLEU)
-- [ ] Bryant Christopher, Felice Mariano, Briscoe Edward John. 2017. [Automatic annotation and evaluation of error types for grammatical error correction](https://www.aclweb.org/anthology/P17-1074). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). (ERRANT-2)
+- [x] Bryant Christopher, Felice Mariano, Briscoe Edward John. 2017. [Automatic annotation and evaluation of error types for grammatical error correction](https://www.aclweb.org/anthology/P17-1074). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). (ERRANT-2)
 - [ ] Felice, Mariano, Christopher Bryant, and Edward Briscoe. 2016. [Automatic extraction of learner errors in ESL sentences using linguistically enhanced alignments](https://www.aclweb.org/anthology/C16-1079.pdf). Association for Computational Linguistics. (ERRANT-1)
 
 <h2 id="SMT"> SMT & NMT </h2>
